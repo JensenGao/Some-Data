@@ -1,2 +1,2 @@
 # Some-Data
-In this repository, there are some data for my project.
+In this repository, there are part of raw data for my project.
